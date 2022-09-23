@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mohdabbas-web-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8049291A8BC848B1AB93E8784CBB514D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30DE8EC28DB2478DB0E698CD634CEFC7 }}
